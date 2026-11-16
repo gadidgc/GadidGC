@@ -11,7 +11,7 @@ I help US startups go from <b>0 → 1</b> and from <b>1 → 1000</b>.</p>
 
 - 🏛️ **Claude Certified Architect – Professional.** I design agentic systems, RAG, tool use and evals that hold up in production.
 - 📈 **0 → Series B.** I was part of a US startup that grew from zero to Series B.
-- 🏆 **Korean Embassy (KOICA) winner.** Led a team to first place in the national startup competition.
+- 🏆 **Seed funding from the Korean Embassy (KOICA).** Led the team behind Thesis Builder, a RAG assistant for scientific papers.
 - 🛠️ **Today:** working with US startups at the two hardest moments: going from 0 to 1, and from 1 to 1000.
 - 🧠 Working with language models since 2022, before ChatGPT went mainstream.
 
